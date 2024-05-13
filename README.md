@@ -10,3 +10,4 @@ Este proyecto es una puerta de entrada, y debe ser ajustado para ser una soluci�
 
 Se proporciona una guía de como añadir campos al sistema para que el modelo sea capaz de reconocerlo
 ## Arquitectura del sistema
+![imagen](images/diagrama_pipeline1.png)
