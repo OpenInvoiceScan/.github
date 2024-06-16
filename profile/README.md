@@ -1,6 +1,6 @@
-# Open Invoice Scan
+# Avalon
 
-Open Invoice Scan es un proyecto de escaneo de facturas con inteligencia artificial con el fin de democratizar esta tecnología, ya que la barrera de entrada es ciertamente dura para aquellos que quieren empezar en el mundo del ***Named Entity Recognition***.
+Avalon es un proyecto de escaneo de facturas con inteligencia artificial con el fin de democratizar esta tecnología, ya que la barrera de entrada es ciertamente dura para aquellos que quieren empezar en el mundo del ***Named Entity Recognition***.
 
 Se propone una solución gratuita y facilmente adaptable usando recursos *Self Hosted* para aplicar tanto comercialmente esta solución como para nutrirse académicamente del proyecto. Este proyecto incluye tanto un generador de facturas, como un generador de datos aleatorios.
 
